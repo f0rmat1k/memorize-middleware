@@ -48,6 +48,7 @@ Type: `Function`
 Middleware, which changes should be cached.
 
 #### options
+Type: `Object`  
 
 ##### updateInterval
 Type: `Number`  
